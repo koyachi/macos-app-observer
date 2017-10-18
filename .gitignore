@@ -1,0 +1,2 @@
+logs/*.log
+logs/*.log.[0-9]*
