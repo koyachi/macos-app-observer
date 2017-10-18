@@ -14,11 +14,4 @@ function observeFrontmostApp() {
     console.stdoutLog(result);
 }
 
-/*
-var waitSec = 60;
-while (true) {
-observeFrontmostApp();
-    delay(waitSec);
-}
-*/
 observeFrontmostApp();
